@@ -17,4 +17,4 @@ r5 = r4 % 50
 if r5 == 0:
     print('Thank You! Have a Nice Day!')
 else:
-    print('Amount unable to withdraw=',r5)
+    print('Amount unable to withdraw=',r5,'\n Thank You! Have a Nice Day!')
